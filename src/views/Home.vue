@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <div class="text-5xl text-bold bg-pink-600">tailwind css</div>
     <img alt="Vue logo" src="https://yurupro.cloud/img/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
   </div>
