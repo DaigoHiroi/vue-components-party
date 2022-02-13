@@ -12,12 +12,14 @@
   "dependencies": {
     "autoprefixer": "^9.8.8",
     "core-js": "^3.6.5",
+    "match-sorter": "^6.3.1",
     "postcss": "^7.0.39",
     "register-service-worker": "^1.7.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vue": "^3.0.0",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
+    "vue-snakke": "^0.1.0",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
