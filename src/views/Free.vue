@@ -55,6 +55,7 @@ export default class Free extends Vue {
   sortedList = matchSorter(this.list, "c");
   text = "";
 
+  // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
   setup() {
     const count = ref(0);
 
