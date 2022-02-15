@@ -10,6 +10,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
     "autoprefixer": "^9.8.8",
     "core-js": "^3.6.5",
     "match-sorter": "^6.3.1",
