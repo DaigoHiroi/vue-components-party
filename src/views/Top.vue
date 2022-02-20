@@ -9,7 +9,11 @@
         style="margin: 0 auto"
       />
     </div>
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <!--    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />-->
+    <div>ゆるプロ日記が提供する、Vueコンポーネントサンプルサイト</div>
+    <h1>環境</h1>
+
+    <h1>npmモジュール</h1>
   </div>
 </template>
 
